@@ -2,7 +2,7 @@
 # Nguyen Hai Huy
 <h3>📊 Stats</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NgHaiHuy)](https://github.com/NgHaiHuy/github-readme-stats)
+![Ng Hai Huy](https://github-readme-stats.vercel.app/api?username=NgHaiHuy&show_icons=true&theme=github_dark)
 
 <h3 align="center">A passionate developer from Viet Nam</h3>
 
