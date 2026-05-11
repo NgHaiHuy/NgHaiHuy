@@ -1,4 +1,3 @@
-## Hello 👋
 # Nguyen Hai Huy
 <h3>📊 Stats</h3>
 
