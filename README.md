@@ -1,8 +1,6 @@
 # Nguyen Hai Huy
 <h3>📊 Stats</h3>
 
-![Ng Hai Huy](https://vercel.app)
-
 <h3 align="center">A passionate developer from VietNam</h3>
 
 <h3 align="left">💼Languages and Tools:</h3>
